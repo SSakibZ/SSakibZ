@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 ![SadmanSakibZarif's GitHub stats](https://github-readme-stats.vercel.app/api?username=SadmanSakibZarif&show_icons=true&theme=dracula)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zktanvir&layout=compact&theme=dracula">
+
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/Tahsi9AhmeD"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=SadmanSakibZarif&color=blue&style=flat-square"></a>
